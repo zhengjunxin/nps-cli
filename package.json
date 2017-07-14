@@ -1,0 +1,37 @@
+{
+  "name": "nps-cli",
+  "version": "0.0.1",
+  "description": "Easily set/remove/ls npm-scripts field in cli.",
+  "bin": {
+    "nps": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengjunxin/nps-cli.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-scripts",
+    "manager",
+    "npm-scripts-manager",
+    "cli"
+  ],
+  "author": {
+    "name": "joezheng"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengjunxin/nps-cli/issues"
+  },
+  "homepage": "https://github.com/zhengjunxin/nps-cli#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "read-pkg": "^2.0.0",
+    "write-pkg": "^3.1.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nps-cli@0.0.1"
+}
