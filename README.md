@@ -1,6 +1,8 @@
-# nps
+# nps-cli
 
 Easily ls/set/remove package.json's scripts field in cli.
+
+可查看[中文文档](https://github.com/zhengjunxin/nps-cli/blob/master/README_zh-CN.md)
 
 ## Why
 
@@ -14,7 +16,7 @@ npm install -g nps-cli
 
 ## DESCRIPTION
 
-nps provides 3 commands to manage the scripts field:
+nps-cli provides 3 commands to manage the scripts field:
 
 - `nps ls` - list current scripts field.
 

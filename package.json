@@ -1,7 +1,7 @@
 {
   "name": "nps-cli",
   "version": "0.0.1",
-  "description": "Easily set/remove/ls npm-scripts field in cli.",
+  "description": "Easily set/remove/ls package.json's scripts field in cli.",
   "bin": {
     "nps": "bin/index.js"
   },
